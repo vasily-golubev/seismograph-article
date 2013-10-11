@@ -1,0 +1,8 @@
+# After pdflatex run #
+######################
+authors.aux
+links.aux
+main.aux
+main.log
+main.pdf
+summaries.aux
